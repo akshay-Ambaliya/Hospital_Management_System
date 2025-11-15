@@ -79,8 +79,7 @@ Represents database tables.
 
 ---
 
-## ⚙️ Setup & Installation
+👨‍💻 Author
 
-### 1️⃣ Clone the project
-```bash
-git clone https://github.com/YOUR_USERNAME/HMS.git
+Akshay
+IT Student | Java Developer | Android Developer
